@@ -13,9 +13,6 @@
 # In[1]:
 
 
-get_ipython().run_cell_magic('capture', '', '!pip install -r requirements.txt')
-
-
 # In[2]:
 
 
